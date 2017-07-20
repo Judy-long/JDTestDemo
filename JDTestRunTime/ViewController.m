@@ -23,8 +23,6 @@
 
 //    [self testPrint];
     
-    
-    
     RunModel *model = [[RunModel alloc] init];
     model.runName = [[NSMutableString alloc] initWithString:@"nimei"];
     NSMutableString *str1 = [[NSMutableString alloc] initWithString:@"A"];
